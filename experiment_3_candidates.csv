@@ -1,0 +1,2 @@
+﻿sample_id,company_name,company_number,vat_candidate,source_url,source_type,evidence_text,postcode_nearby,discovery_mode,observed_at_utc,verification_status
+28,WARWICK BURT CONSTRUCTION LIMITED,02811195,623619347,https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB982848855/CompanyName/TECH+SOURCE+I.T+SOLUTIONS+LT+D,WEB_SEARCH,OLUTIONS LTD GB946573191 WARWICK BURT CONSTRUCTION LIMITED GB623619347 INSTALLATIONS FOR BUSINESS LIMITED GB322975882 Share page o,false,LIVE_WEB,2026-11-21T20:29:26Z,NOT_VERIFIED_BY_HMRC_API

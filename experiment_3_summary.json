@@ -1,0 +1,12 @@
+{
+  "run_date": "2026-11-21",
+  "companies": 30,
+  "queries_logged": 90,
+  "page_fetches": 179,
+  "pages_ok": 87,
+  "pages_not_ok": 92,
+  "candidates_discovered": 1,
+  "candidate_matched_preexisting_manual_hmrc": 1,
+  "hmrc_checks_performed_by_program": 0,
+  "source": "uploaded run outputs, see experiment_3_audit.csv"
+}

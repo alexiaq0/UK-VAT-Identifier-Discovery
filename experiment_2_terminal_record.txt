@@ -1,0 +1,37 @@
+Experiment 2 terminal output – transcribed from student's Mac run (21 Nov 2026)
+Command: python3 vat_postcode.py
+This transcript is not a URL-by-URL HTTP log.
+
+ 1 10 PAVEMENT MANAGEMENT COMPANY LI | ACCESS_LIMITED               | (none)
+ 2 ARIYAN FOODS LIMITED              | ACCESS_LIMITED               | (none)
+ 3 AUTONOMOUS CAPITAL LTD            | ACCESS_LIMITED               | (none)
+ 4 BEAULIEU ESTATE AGENTS LIMITED    | ACCESS_LIMITED               | (none)
+ 5 BRAINFOREST LIMITED               | ACCESS_LIMITED               | (none)
+ 6 CLOUDSKILL SOLUTION LTD           | ACCESS_LIMITED               | (none)
+ 7 GB MEAMA LTD                      | ACCESS_LIMITED               | (none)
+ 8 GB SALES LTD                      | ACCESS_LIMITED               | (none)
+ 9 IGGROW SOLUTIONS LTD              | ACCESS_LIMITED               | (none)
+10 KINGS WORTHY RENOVATION LTD       | ACCESS_LIMITED               | (none)
+11 L&A DELIVERY LTD                  | ACCESS_LIMITED               | (none)
+12 LATHAMS HOLDINGS LIMITED          | ACCESS_LIMITED               | (none)
+13 LN MITCHELL (INVESTMENTS) LIMITED | ACCESS_LIMITED               | (none)
+14 LOUISE MALONE PHYSIOTHERAPY LTD   | ACCESS_LIMITED               | (none)
+15 R&T DIGITAL SOLUTIONS LIMITED     | NO_POSTCODE_AVAILABLE        | (none)
+16 MICHELLE BENCH LIMITED            | ACCESS_LIMITED               | (none)
+17 NFT HOLDINGS LTD                  | ACCESS_LIMITED               | (none)
+18 REFXN BIO LTD                     | ACCESS_LIMITED               | (none)
+19 RESOLUTE WEALTH MANAGEMENT HOLDIN | ACCESS_LIMITED               | (none)
+20 ROME STREET GASWORKS LTD          | ACCESS_LIMITED               | (none)
+21 SAUS FINANCE PARTNERS LTD         | ACCESS_LIMITED               | (none)
+22 FLOURISH OXFORD LTD               | NO_POSTCODE_AVAILABLE        | (none)
+23 SPV BC1 LIMITED                   | ACCESS_LIMITED               | (none)
+24 STONEHAYES BRICKLAYERS LTD        | ACCESS_LIMITED               | (none)
+25 THE FUTURE OF SOCCER LTD          | ACCESS_LIMITED               | (none)
+26 THIRTY NINE GRATTON ROAD LIMITED  | ACCESS_LIMITED               | (none)
+27 TOPGOLF MEXICO HOLDINGS LTD.      | ACCESS_LIMITED               | (none)
+28 WARWICK BURT CONSTRUCTION LIMITED | ACCESS_LIMITED               | (none)
+29 WILMAN BUILDING CONSULTANCY LIMIT | ACCESS_LIMITED               | (none)
+30 WYNTEL LTD                        | ACCESS_LIMITED               | (none)
+
+VAT candidates: 0/30 firms, NOT verified by the script
+28 ACCESS_LIMITED; 2 NO_POSTCODE_AVAILABLE
